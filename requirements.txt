@@ -1,0 +1,6 @@
+requests
+dotenv
+pillow
+IPython
+gradio
+text-generation
